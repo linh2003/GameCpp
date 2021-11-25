@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameSnake", "GameSnake\GameSnake.vcxproj", "{26A3AEC5-009F-478F-B81E-463670D36614}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CoCaro", "CoCaro\CoCaro.vcxproj", "{4E5AFA0C-D007-45C9-9255-81DD9B1BC138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26A3AEC5-009F-478F-B81E-463670D36614}.Debug|Win32.ActiveCfg = Debug|Win32
+		{26A3AEC5-009F-478F-B81E-463670D36614}.Debug|Win32.Build.0 = Debug|Win32
+		{26A3AEC5-009F-478F-B81E-463670D36614}.Release|Win32.ActiveCfg = Release|Win32
+		{26A3AEC5-009F-478F-B81E-463670D36614}.Release|Win32.Build.0 = Release|Win32
+		{4E5AFA0C-D007-45C9-9255-81DD9B1BC138}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E5AFA0C-D007-45C9-9255-81DD9B1BC138}.Debug|Win32.Build.0 = Debug|Win32
+		{4E5AFA0C-D007-45C9-9255-81DD9B1BC138}.Release|Win32.ActiveCfg = Release|Win32
+		{4E5AFA0C-D007-45C9-9255-81DD9B1BC138}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
